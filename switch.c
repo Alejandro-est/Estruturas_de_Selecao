@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main () {
     int mes;
-    print("Digite o mes en formato numerico: ");
+    printf("Digite o mes en formato numerico: ");
     scanf("%d",&mes);
     switch (mes){
     case 1:
