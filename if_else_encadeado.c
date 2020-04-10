@@ -13,14 +13,14 @@ int main ()
     if(chute==sorteado){
         printf("Voce Acertou!!!\n");
 }
-     else{
-          if(chute<sorteado){
-            printf("Voce Perdeu!!! seu chute %d, e menor que o sorteado!!!\n",chute);
+        else{
+                if(chute<sorteado){
+                                   printf("Voce Perdeu!!! seu chute %d, e menor que o sorteado!!!\n",chute);
+                                  }
+                                  else{
+                                       printf("Voce Perdeu!!! seu chute %d, e maior que o sorteado!!!\n",chute);
+                                    }
             }
-            else{
-                printf("Voce Perdeu!!! seu chute %d, e maior que o sorteado!!!\n",chute);
-            }
-        }
 
       Printf("*** GAME OVER ***/n");
       return 0;
