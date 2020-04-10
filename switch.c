@@ -2,7 +2,7 @@
 int main () {
     int mes;
     print("Digite o mes en formato numerico: ");
-    scanf("\d",&mes);
+    scanf("%d",&mes);
     switch (mes){
     case 1:
         printf("Janeiro\n");
