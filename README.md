@@ -1,2 +1,2 @@
 # Estruturas_De_Selecao
- primeiros codigos com a estrutura de selecao if simples, composta, switch, encadeada e ternaria
+ primeiros codigos com *Estrutura de Seleção* **if simples**, **composta**, **switch**, **encadeada** e **ternaria**
